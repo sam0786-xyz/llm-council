@@ -8,7 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
-
+llm_env/
+venv/
 # Keys and secrets
 .env
 
